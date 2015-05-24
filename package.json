@@ -1,0 +1,26 @@
+{
+  "name": "lightpath",
+  "version": "1.0.0",
+  "description": "first web version lightpath yeah!!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Taxxx/LightPathWeb1.0.git"
+  },
+  "keywords": [
+    "node.js",
+    "bootstrap",
+    "angular",
+    "express",
+    "mongo"
+  ],
+  "author": "Henrry Chuquimia (TaXxX)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taxxx/LightPathWeb1.0/issues"
+  },
+  "homepage": "https://github.com/Taxxx/LightPathWeb1.0"
+}
